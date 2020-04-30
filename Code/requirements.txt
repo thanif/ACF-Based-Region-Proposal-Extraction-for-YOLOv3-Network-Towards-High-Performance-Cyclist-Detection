@@ -153,7 +153,7 @@ tensorboard==1.8.0
 tensorflow==1.15.2
 tensorflow-datasets==2.1.0
 tensorflow-estimator==1.14.0
-tensorflow-gpu==1.8.0
+tensorflow-gpu==1.15.2
 tensorflow-metadata==0.21.1
 termcolor==1.1.0
 terminado==0.8.3
