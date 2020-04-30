@@ -3,6 +3,9 @@ Implementation of the paper ACF Based Region Proposal Extraction for YOLOv3 Netw
 
 For more details: https://medium.com/@thanifbutt/acf-based-region-proposal-extraction-for-yolov3-network-towards-high-performance-cyclist-detection-455084b26283
 
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+
+
 # References
 https://pdollar.github.io/toolbox/
 
