@@ -5,6 +5,8 @@ For more details: https://medium.com/@thanifbutt/acf-based-region-proposal-extra
 
 ![Cyclist Detection Demo](Demo/demo.gif)
 
+![Cyclist Detection Demo](https://medium.com/@thanifbutt/acf-based-region-proposal-extraction-for-yolov3-network-towards-high-performance-cyclist-detection-455084b26283)
+
 # References
 https://pdollar.github.io/toolbox/
 
