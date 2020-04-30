@@ -1,5 +1,5 @@
 # ACF-Based-Region-Proposal-Extraction-for-YOLOv3-Network-Towards-High-Performance-Cyclist-Detection
-Implementation of the paper ACF Based Region Proposal Extraction for YOLOv3 Network Towards High-Performance Cyclist Detection in High Resolution Images
+Implementation of the paper "ACF Based Region Proposal Extraction for YOLOv3 Network Towards High-Performance Cyclist Detection in High Resolution Images"
 
 For more details: https://medium.com/@thanifbutt/acf-based-region-proposal-extraction-for-yolov3-network-towards-high-performance-cyclist-detection-455084b26283
 
