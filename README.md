@@ -3,13 +3,13 @@ Implementation of the paper "ACF Based Region Proposal Extraction for YOLOv3 Net
 
 ## Code Structure
 
-### ACF: toolbox-master
+### ACF: Code/toolbox-master
 
-### GUI for labelling: GUI-for-labeling/Yolo_mark-master
+### GUI for labelling: Code/GUI-for-labeling/Yolo_mark-master
 
-### YOLO: AlexeyABdarknet
+### YOLO: Code/AlexeyABdarknet
 
-### Convenient functions for YOLO: VG_AlexeyAB_darknet-master
+### Convenient functions for YOLO: Code/VG_AlexeyAB_darknet-master
 
 For more details: https://medium.com/@thanifbutt/acf-based-region-proposal-extraction-for-yolov3-network-towards-high-performance-cyclist-detection-455084b26283
 
