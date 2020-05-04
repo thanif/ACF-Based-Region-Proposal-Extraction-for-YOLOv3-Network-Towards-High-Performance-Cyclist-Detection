@@ -5,7 +5,7 @@ Implementation of the paper "ACF Based Region Proposal Extraction for YOLOv3 Net
 
 ### ACF: Code/toolbox-master
 
-### GUI for labelling: Code/GUI-for-labeling/Yolo_mark-master
+### GUI for labeling: Code/GUI-for-labeling/Yolo_mark-master
 
 ### YOLO: Code/AlexeyABdarknet
 
