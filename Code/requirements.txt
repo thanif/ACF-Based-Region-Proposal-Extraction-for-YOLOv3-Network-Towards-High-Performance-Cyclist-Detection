@@ -150,7 +150,7 @@ srsly==1.0.1
 stevedore==1.32.0
 system-service==0.3
 tensorboard==1.8.0
-tensorflow==1.15.2
+tensorflow==1.15.4
 tensorflow-datasets==2.1.0
 tensorflow-estimator==1.14.0
 tensorflow-gpu==1.15.2
