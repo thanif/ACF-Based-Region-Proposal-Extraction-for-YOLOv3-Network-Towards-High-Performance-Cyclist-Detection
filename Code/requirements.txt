@@ -87,7 +87,7 @@ notebook==6.0.3
 numpy==1.16.2
 oauthlib==1.0.3
 onboard==1.2.0
-opencv-python==4.1.1.26
+opencv-python==4.2.0.32
 padme==1.1.1
 pandocfilters==1.4.2
 parso==0.6.1
