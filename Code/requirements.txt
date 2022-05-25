@@ -114,7 +114,7 @@ pycups==1.9.73
 pycurl==7.43.0
 Pygments==2.5.2
 pygobject==3.20.0
-PyJWT==1.7.1
+PyJWT==2.4.0
 pyparsing==2.0.3
 pyrsistent==0.15.7
 pyspark==2.4.3
