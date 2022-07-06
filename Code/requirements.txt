@@ -44,7 +44,7 @@ grequests==0.4.0
 grpcio==1.23.0
 guacamole==0.9.2
 h5py==2.10.0
-html5lib==0.9999999
+html5lib==0.999999999
 httplib2==0.18.0
 idna==2.8
 imageio==2.8.0
