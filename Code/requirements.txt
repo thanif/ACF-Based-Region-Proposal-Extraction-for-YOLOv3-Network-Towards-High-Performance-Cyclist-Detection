@@ -117,7 +117,7 @@ pygobject==3.20.0
 PyJWT==1.7.1
 pyparsing==2.0.3
 pyrsistent==0.15.7
-pyspark==2.4.3
+pyspark==3.2.2
 python-apt==1.1.0b1+ubuntu0.16.4.8
 python-dateutil==2.8.1
 python-debian==0.1.27
